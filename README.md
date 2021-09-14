@@ -10,10 +10,6 @@ This was just a small project that got quite big, I wrote the bot in a day so th
 
 Enjoy the code, don't try to release it as your own bot. :)
 
-If you'd like to support the bot you could pay for my coffee and the servers using the link below <3  [https://www.paypal.me/ssanaizadeh](https://www.paypal.me/ssanaizadeh)
-
-Support Server for the bot: https://discord.gg/y9pgpbt
-
 **This version of the bot is sufficient enough for casual use on afew servers, I have no intention what so ever of updating it nor will support anyone with hosting it.**
 
 **I won't be releasing the new version of the bots source code either so don't ask.**
